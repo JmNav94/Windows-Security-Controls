@@ -37,24 +37,24 @@ Run a Full Scan within the Windows Security settings:  <br/>
 <img src="https://i.imgur.com/OaLBrs1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select Inbound Rules and Select New Rule on the Right Side, Select Port:  <br/>
+<img src="https://i.imgur.com/DxbPrfn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select TCP and Specify Port 80 to have rule applied to: <br/>
+<img src="https://i.imgur.com/VnwNAY3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirm Inbound Rules like Allowing the Connection:  <br/>
+<img src="https://i.imgur.com/Kyr3BlI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Specify profiles to apply new Inbound Rule:  <br/>
+<img src="https://i.imgur.com/pytEkdF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Title New Inbound Rule:  <br/>
+<img src="https://i.imgur.com/K8pzi0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
