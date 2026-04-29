@@ -57,8 +57,42 @@ Title New Inbound Rule:  <br/>
 <img src="https://i.imgur.com/K8pzi0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. Local Users Manager: In the Search Bar look up lusrmgr.msc:  <br/>
+<img src="https://i.imgur.com/m7HDSBc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Right Click Users to create a new user:  <br/>
+<img src="https://i.imgur.com/zx0xTio.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add New user to Power Users group by checking the name: <br/>
+<img src="https://i.imgur.com/E91pAW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Check general info on new user to adjust user settings:  <br/>
+<img src="https://i.imgur.com/uMP4tV3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+4. Change User Account Control Settings: Look up in the search bar:  <br/>
+<img src="https://i.imgur.com/uTKMnOz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Right Click Users to create a new user:  <br/>
+<img src="https://i.imgur.com/zx0xTio.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add New user to Power Users group by checking the name: <br/>
+<img src="https://i.imgur.com/E91pAW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Check general info on new user to adjust user settings:  <br/>
+<img src="https://i.imgur.com/uMP4tV3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Title New Inbound Rule:  <br/>
+<img src="https://i.imgur.com/K8pzi0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
