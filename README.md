@@ -7,34 +7,34 @@ Project is focused on exploring the various functions to improve security in a W
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>JobSkillShare virtual sandbox</b> 
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Look up Windows Security in the Search Bar: <br/>
+1. Virus & threat protection:  Look up Windows Security in the Search Bar: <br/>
 <img src="https://i.imgur.com/fNUZ2kE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select Virus & Threat Proteection to run a Quick Scan:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8AgZpFs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Adjust Virus & Threat settings: <br/>
 <img src="https://i.imgur.com/gEZWDPU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run a Full Scan within the Windows Security settings:  <br/>
+<img src="https://i.imgur.com/H1UKDAq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Windows Defender Firewall: Look up wf.msc in the search bar:  <br/>
+<img src="https://i.imgur.com/OaLBrs1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
